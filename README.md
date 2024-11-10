@@ -12,9 +12,9 @@ Proyecto desarrollado en IntelliJ IDEA utilizando Java Corretto 17 y programaci�
 
 La estructura básica del proyecto y clase principal para su ejecución es la siguiente:
 
-ItemsMeli/
-|-----items-meli-domain/
-|-----items-meli-infra/
-``` ``` |-----src/main/java/org/bcc/itemsmeliinfra/ItemsMeliInfraApplication.java
+ItemsMeli/  
+     |-----items-meli-domain/  
+     |-----items-meli-infra/  
+ ``` ``` ``` ``` |---src/main/java/org/bcc/itemsmeliinfra/ItemsMeliInfraApplication.java
 
 Para ejecutarlo desde IntelliJ, selecciona ItemsMeliInfraApplication y haz clic en Run.
