@@ -4,7 +4,7 @@ Proyecto desarrollado en IntelliJ IDEA utilizando Java Corretto 17 y programaci√
 
 ## Requisitos previos
 
-- ** Java Corretto 17: ** Verifica que tienes instalado Java Corretto 17.
+- **Java Corretto 17:** Verifica que tienes instalado Java Corretto 17.
 - ** IntelliJ IDEA: ** IDE recomendado para el desarrollo.
 - ** Gradle: ** Configurado en el proyecto para manejar la construcci√≥n y dependencias.
 
