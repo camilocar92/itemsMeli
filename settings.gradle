@@ -1,0 +1,3 @@
+rootProject.name = 'ItemsMeli'
+include 'items-meli-domain'
+include 'items-meli-infra'
